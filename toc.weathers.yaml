@@ -1,39 +1,61 @@
-title: 이상기후
-author: 에이미 앰플
-date: 2018
-content:
-    - title: "오늘의 날씨"
-    layout: lyric
-    filename: weather-today
+meta:
+    title: 이상기후
+    author: 에이미 앰플
+    date_published: "2018-08-12"
+    editor: 미루
+    designer: 써드엔지니어링카르텔
+    license: 이 책에 수록된 저작물 중 별도로 표기되지 않은 모든 저작물의 저작권은 저자에게 있습니다. 크리에이티브커먼즈 저작자표시-동일조건변경허락 4.0 국제 라이센스
+    publisher:
+        name: 금치산자레시피
+        email: gtsz.rcp@gmail.com
+        website: http://gtszrcp.com
+        instagram: "gtsz.rcp"
 
-    - title: "예정보다 빠른 시각"
-    layout: lyric
-    filename: the-time
+cover:
+    artwork_type: web
+    artist_firstname: Secoy
+    artist_lastname: A
+    title: Part of the antenna array at the High-Frequency Active Auroral Research Program
+    year: 2016
+    references: https://commons.wikimedia.org/wiki/File:HAARP_Antenna_Array_Transmitter_Buildings.jpg
+    medium: digital
+    date_of_access: "2018-07-15"
+    institution: Wikimedia Commons
+    license: Creative Commons Attribution-Share Alike 4.0 International
 
-    - title: "쿠바"
-    layout: lyric
-    filename: cuba
+contents:
+    - title: 오늘의 날씨
+      layout: lyric
+      filename: weather-today
 
-    - title: "하드랜딩"
-    layout: lyric
-    filename: hardlanding
+    - title: 예정보다 빠른 시각
+      layout: lyric
+      filename: the-time
 
-    - title: "태양의 대지"
-    layout: lyric
-    filename: land-of-sun
+    - title: 쿠바
+      layout: lyric
+      filename: cuba
 
-    - title: "여름의 이야기"
-    layout: lyric
-    filename: story-of-summer
+    - title: 하드랜딩
+      layout: lyric
+      filename: hardlanding
 
-    - title: "봄"
-    layout: lyric
-    filename: spring
+    - title: 태양의 대지
+      layout: lyric
+      filename: land-of-sun
 
-    - title: "눈 녹으면"
-    layout: lyric
-    filename: when-snow-melt
+    - title: 여름의 이야기
+      layout: lyric
+      filename: story-of-summer
 
-    - title: "미들 샌프란시스코"
-    layout: lyric
-    filename: "middle-sanfransisco"
+    - title: 봄
+      layout: lyric
+      filename: spring
+
+    - title: 눈 녹으면
+      layout: lyric
+      filename: when-snow-melt
+
+    - title: 미들 샌프란시스코
+      layout: lyric
+      filename: middle-sanfransisco

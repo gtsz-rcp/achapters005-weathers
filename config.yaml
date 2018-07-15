@@ -1,0 +1,7 @@
+template: "achapters-template"
+manuscript_dir: manuscript
+tex_dir: tex
+codename: weathers
+working_dir: '.'
+toc_file: "toc.weathers.yaml"
+manuscript_format: md
