@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  15 JUL 2018 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.6.14)  15 JUL 2018 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,7 +751,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ...line {chapter}{하드랜딩}{5}{chapter*.4}
+l.4 ...line {chapter}{하드랜딩}{6}{chapter*.4}
                                                   
 ? 
 
@@ -761,7 +761,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ... {chapter}{태양의 대지}{7}{chapter*.5}
+l.5 ... {chapter}{태양의 대지}{8}{chapter*.5}
                                                   
 ? 
 
@@ -771,7 +771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...apter}{여름의 이야기}{10}{chapter*.6}
+l.6 ...apter}{여름의 이야기}{11}{chapter*.6}
                                                   
 ? 
 
@@ -781,7 +781,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 \contentsline {chapter}{봄}{12}{chapter*.7}
+l.7 \contentsline {chapter}{봄}{13}{chapter*.7}
                                                 
 ? 
 
@@ -791,7 +791,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ne {chapter}{눈 녹으면}{14}{chapter*.8}
+l.8 ...ne {chapter}{눈 녹으면}{15}{chapter*.8}
                                                   
 ? 
 
@@ -801,7 +801,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 ...}{미들샌프란시스코}{16}{chapter*.9}
+l.9 ...}{미들샌프란시스코}{17}{chapter*.9}
                                                   
 ? 
 )
@@ -981,15 +981,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
  (./weathers.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 330.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 330.
-Package rerunfilecheck Info: File `weathers.out' has not changed.
-(rerunfilecheck)             Checksum: 5342AFCABDDA28DD149D77F5BD9225B1;369.
+
+
+Package rerunfilecheck Warning: File `weathers.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `weathers.out':
+(rerunfilecheck)             Before: C4580D6B30115B42A7C4227E1CAC6EA4;449
+(rerunfilecheck)             After:  5342AFCABDDA28DD149D77F5BD9225B1;369.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 9672 strings out of 492646
- 140015 string characters out of 6133325
+ 9673 strings out of 492646
+ 140025 string characters out of 6133325
  272360 words of memory out of 5000000
- 13385 multiletter control sequences out of 15000+600000
+ 13386 multiletter control sequences out of 15000+600000
  50700 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,12n,34p,814b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1066,7 +1076,7 @@ nanummjmd3.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanumm
 jmd4.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.p
 fb><c:/texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:
 /texlive/2018/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
-Output written on weathers.pdf (23 pages, 3465018 bytes).
+Output written on weathers.pdf (23 pages, 3464899 bytes).
 PDF statistics:
  485 PDF objects out of 1000 (max. 8388607)
  377 compressed objects within 4 object streams
