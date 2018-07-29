@@ -32,10 +32,6 @@ contents:
       layout: lyric
       filename: the-time
 
-    - title: 쿠바
-      layout: lyric
-      filename: cuba
-
     - title: 하드랜딩
       layout: lyric
       filename: hardlanding
