@@ -1,3 +1,8 @@
 *.log
 *.ai
 *.psd
+*.ini
+.vagrant
+*.jpg
+*.pdf
+.BridgeSort
