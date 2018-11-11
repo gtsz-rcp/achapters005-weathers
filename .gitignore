@@ -7,3 +7,11 @@
 *.pdf
 .BridgeSort
 BartlebyMachine
+cards/*
+printkit/*
+*.aux
+*.out
+*.toc
+*.gz
+*.indd
+*.png
